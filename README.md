@@ -50,4 +50,10 @@ php -S localhost:8080 -t web/
 
 -------
 
-**VEJA VIDEO TUTORIAL** https://www.youtube.com/decomtvs
+**VEJA VIDEO TUTORIAL**
+
+[<img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="davidsonbpe | YouTube" />][youtube]
+[<img height="30" src="https://img.shields.io/badge/Davidsonbpe-000000?style=for-the-badge&logo=Toggl&logoColor=white" alt="davidsonbpe | site" />][site]
+
+[youtube]: https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg/
+[site]: https://davidsonbpe.blogspot.com
