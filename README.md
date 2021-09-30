@@ -1,4 +1,4 @@
-<img src="https://gblobscdn.gitbook.com/spaces%2F-L_Laqs9uSAihPmRemDj%2Favatar-1583350846724.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
+<img src="https://raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/cloudgoogle.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
 # Cloud Shell Editor Hello World em PHP
 
