@@ -1,7 +1,0 @@
-composer install
-
-php -S localhost:8080 -t web/
-
-php-docs-samples
-
-home/sobaixarso/googlecloud-php/appengine/flexible/helloworld/
